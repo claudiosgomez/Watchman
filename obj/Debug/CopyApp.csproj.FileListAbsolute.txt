@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\bin\Debug\CopyApp.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\bin\Debug\CopyApp.exe
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\bin\Debug\CopyApp.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\obj\Debug\CopyApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\obj\Debug\CopyApp.exe
+c:\users\administrator\documents\visual studio 2017\Projects\CopyApp\CopyApp\obj\Debug\CopyApp.pdb
+\\192.168.1.200\Users\Administrator\Desktop\Carpeta temporis\CopyApp\CopyApp\bin\Debug\CopyApp.exe.config
+\\192.168.1.200\Users\Administrator\Desktop\Carpeta temporis\CopyApp\CopyApp\obj\Debug\CopyApp.exe
+\\192.168.1.200\Users\Administrator\Desktop\Carpeta temporis\CopyApp\CopyApp\obj\Debug\CopyApp.pdb
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\bin\Debug\CopyApp.exe.config
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\obj\Debug\CopyApp.exe
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\obj\Debug\CopyApp.pdb
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\bin\Debug\CopyApp.exe
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\bin\Debug\CopyApp.pdb
+C:\Users\ClaudioSergio\Desktop\CopyApp\CopyApp\obj\Debug\CopyApp.csprojResolveAssemblyReference.cache

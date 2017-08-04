@@ -1,0 +1,6 @@
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\bin\Debug\Vigilante.exe.config
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\bin\Debug\Vigilante.exe
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\bin\Debug\Vigilante.pdb
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\obj\Debug\Vigilante.csprojResolveAssemblyReference.cache
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\obj\Debug\Vigilante.exe
+c:\users\claudiosergio\documents\visual studio 2015\Projects\Vigilante\Vigilante\obj\Debug\Vigilante.pdb
